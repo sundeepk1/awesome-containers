@@ -18,3 +18,5 @@ minikube start \
     --iso-url=http://storage.googleapis.com/minikube/iso/buildroot/minikube-v0.0.6.iso
 ```
 
+### Go
+https://www.youtube.com/watch?v=CF9S4QZuV30   -- basics
