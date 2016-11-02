@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=IYcL0Un1io0  -- Custom Scheduler on k8s  -- Kels
 
 
 ### rkt 
+https://www.youtube.com/watch?v=E9WVjxaRkKU  -- rkt -- Kelsey Hightower
 > Start rkt runtime with k8s
 ```sh
 minikube start \
