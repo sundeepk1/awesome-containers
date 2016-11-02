@@ -20,3 +20,4 @@ minikube start \
 
 ### Go
 https://www.youtube.com/watch?v=CF9S4QZuV30   -- basics
+https://github.com/GoesToEleven/GolangTraining  -- go training
