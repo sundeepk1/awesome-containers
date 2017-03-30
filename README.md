@@ -9,13 +9,13 @@ https://www.youtube.com/playlist?list=PLS92o8LZHcPSGHxlK65EMMuaL4OUM2ded    --  
 #### Blogs
 https://blog.openshift.com/     -- Openshift Blog, most recent updates on openshift
 
-#### examples
+#### Examples
 https://github.com/debianmaster/openshift-examples     -- Openshift Examples by Chakradhar Rao Jonagam
 
 
 #### Colloboration
-openshift-dev   -- freenode
-openshiftcommons.slack.com   --slack
+`#openshift-dev`     -- freenode     
+openshiftcommons.slack.com   --slack    
 
 #### Presentations
 http://redhat.slides.com/cjonagam/ocp-story?token=xMmIKbOn    -- Story for Dev/Ops w/ Openshift
