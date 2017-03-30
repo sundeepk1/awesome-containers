@@ -5,6 +5,8 @@ Everything about containers
 #### Videos
 https://www.youtube.com/channel/UCZKMj3YI0wP-kq4QYpaKdEA       -- Openshift Official Channel
 https://www.youtube.com/playlist?list=PLS92o8LZHcPSGHxlK65EMMuaL4OUM2ded    --  Chakradhar Rao Jonagam Channel
+https://www.youtube.com/channel/UCUMY5vAIUPlKzZm_LEtFUJA    -- Seth Jennings
+
 
 #### Blogs
 https://blog.openshift.com/     -- Openshift Blog, most recent updates on openshift
