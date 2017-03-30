@@ -28,6 +28,9 @@ openshiftcommons.slack.com   --slack
 http://redhat.slides.com/cjonagam/ocp-story?token=xMmIKbOn    -- Story for Dev/Ops w/ Openshift
 
 
+#### SDN
+
+#### FAQ
 
 ## Runtimes
 #### rkt
