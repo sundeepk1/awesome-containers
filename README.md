@@ -1,6 +1,6 @@
 Everything about containers
 
-### Openshift
+## Openshift
 
 #### Videos
 https://www.youtube.com/channel/UCZKMj3YI0wP-kq4QYpaKdEA       -- Openshift Official Channel    
@@ -29,7 +29,7 @@ http://redhat.slides.com/cjonagam/ocp-story?token=xMmIKbOn    -- Story for Dev/O
 
 
 
-### Runtimes
+## Runtimes
 #### rkt
 https://www.youtube.com/watch?v=E9WVjxaRkKU  -- rkt -- Kelsey Hightower
 > Start rkt runtime with k8s
