@@ -51,12 +51,6 @@ https://github.com/radanalyticsio    -- Spark
 ## Runtimes
 #### rkt
 https://www.youtube.com/watch?v=E9WVjxaRkKU  -- rkt -- Kelsey Hightower
-> Start rkt runtime with k8s
-```sh
-minikube start \
-    --network-plugin=cni \
-    --container-runtime=rkt \
-    --iso-url=http://storage.googleapis.com/minikube/iso/buildroot/minikube-v0.0.6.iso
-```
+
 
 
