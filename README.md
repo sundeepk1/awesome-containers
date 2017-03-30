@@ -40,6 +40,9 @@ https://twitter.com/christianposta    Christian Posta
 https://twitter.com/joefern1          Joe Fernandes   
 https://twitter.com/asheshbadani      Ashish Badani    
 
+#### Big Data
+https://github.com/radanalyticsio    -- Spark
+
 #### SDN
 
 #### FAQ
