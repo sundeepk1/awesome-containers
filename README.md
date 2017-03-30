@@ -37,8 +37,8 @@ https://twitter.com/TheSteve0         Steve
 https://twitter.com/christianposta    Christian Posta
 
 ##### Roadmap
-https://twitter.com/pythondj          Diane Mueller
-https://twitter.com/joefern1          Joe Fernandes   
+https://twitter.com/pythondj          Diane Mueller  
+https://twitter.com/joefern1          Joe Fernandes     
 https://twitter.com/asheshbadani      Ashish Badani    
 
 #### Big Data
