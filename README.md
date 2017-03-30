@@ -48,6 +48,14 @@ https://github.com/radanalyticsio    -- Spark
 
 #### FAQ
 
+#### Installations
+##### Laptop
+##### non-HA
+##### HA-install
+##### AWS
+##### Azure
+##### Google Cloud
+
 ## Runtimes
 #### rkt
 https://www.youtube.com/watch?v=E9WVjxaRkKU  -- rkt -- Kelsey Hightower
