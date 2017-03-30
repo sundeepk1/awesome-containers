@@ -4,7 +4,7 @@ Everything about containers
 
 #### Videos
 https://www.youtube.com/channel/UCZKMj3YI0wP-kq4QYpaKdEA       -- Openshift Official Channel    
-https://www.youtube.com/playlist?list=PLS92o8LZHcPSGHxlK65EMMuaL4OUM2ded    --  Chakradhar Jonagam Channel  
+https://www.youtube.com/playlist?list=PLS92o8LZHcPSGHxlK65EMMuaL4OUM2ded  -- Chakradhar J Channel  
 https://www.youtube.com/channel/UCUMY5vAIUPlKzZm_LEtFUJA    -- Seth Jennings
 https://www.youtube.com/watch?v=giFKMsIH4b0  -- Container Security  
 https://www.youtube.com/watch?v=VIPonFvPlAs  -- Systemd  
