@@ -1,5 +1,25 @@
 Everything about containers
 
+### Openshift
+
+#### Videos
+https://www.youtube.com/channel/UCZKMj3YI0wP-kq4QYpaKdEA       -- Openshift Official Channel
+https://www.youtube.com/playlist?list=PLS92o8LZHcPSGHxlK65EMMuaL4OUM2ded    --  Chakradhar Rao Jonagam Channel
+
+#### Blogs
+https://blog.openshift.com/     -- Openshift Blog, most recent updates on openshift
+
+#### examples
+https://github.com/debianmaster/openshift-examples     -- Openshift Examples by Chakradhar Rao Jonagam
+
+
+#### Colloboration
+openshift-dev   -- freenode
+openshiftcommons.slack.com   --slack
+
+
+
+
 ### Videos
 https://www.youtube.com/watch?v=giFKMsIH4b0  -- Container Security  
 https://www.youtube.com/watch?v=VIPonFvPlAs  -- Systemd  
