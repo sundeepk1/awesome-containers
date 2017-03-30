@@ -17,6 +17,9 @@ https://github.com/debianmaster/openshift-examples     -- Openshift Examples by 
 openshift-dev   -- freenode
 openshiftcommons.slack.com   --slack
 
+#### Presentations
+http://redhat.slides.com/cjonagam/ocp-story?token=xMmIKbOn    -- Story for Dev/Ops w/ Openshift
+
 
 
 
