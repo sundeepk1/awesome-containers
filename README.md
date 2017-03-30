@@ -29,15 +29,16 @@ http://redhat.slides.com/cjonagam/ocp-story?token=xMmIKbOn    -- Story for Dev/O
 
 #### People
 ##### Technology
-https://twitter.com/smarterclayton    Clayton Coleman
-https://twitter.com/burrsutter        Burr Sutter
-https://twitter.com/sabre1041         Andre Block
-https://twitter.com/fatherlinux       Scott McCarty
-https://twitter.com/TheSteve0         Steve
+https://twitter.com/smarterclayton    Clayton Coleman  
+https://twitter.com/burrsutter        Burr Sutter  
+https://twitter.com/sabre1041         Andre Block  
+https://twitter.com/fatherlinux       Scott McCarty   
+https://twitter.com/TheSteve0         Steve   
+https://twitter.com/christianposta    Christian Posta
 
 ##### Roadmap
-https://twitter.com/joefern1          Joe Fernandes
-https://twitter.com/asheshbadani      Ashish Badani
+https://twitter.com/joefern1          Joe Fernandes   
+https://twitter.com/asheshbadani      Ashish Badani    
 
 #### SDN
 
