@@ -16,9 +16,10 @@ https://www.youtube.com/watch?v=IYcL0Un1io0  -- Custom Scheduler on k8s  -- Kels
 #### Blogs
 https://blog.openshift.com/     -- Openshift Blog, most recent updates on openshift
 
+
 #### Examples
 https://github.com/debianmaster/openshift-examples     -- Openshift Examples by Chakradhar Rao Jonagam
-
+https://github.com/csrwng/build-origin   -- Build openshift client 
 
 #### Colloboration
 `#openshift-dev`     -- freenode     
