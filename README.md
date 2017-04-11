@@ -57,6 +57,8 @@ https://github.com/radanalyticsio    -- Spark
 ##### Azure
 ##### Google Cloud
 
+##### Storage on/for Openshift
+https://github.com/heketi/heketi/wiki/OpenShift-Integration---Project-Aplo  
 ## Runtimes
 #### rkt
 https://www.youtube.com/watch?v=E9WVjxaRkKU  -- rkt -- Kelsey Hightower
