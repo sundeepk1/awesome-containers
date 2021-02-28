@@ -15,7 +15,9 @@ https://www.youtube.com/watch?v=kpoRYH9Yu4Q  -- Egress
 
 #### Blogs
 https://blog.openshift.com/     -- Openshift Blog, most recent updates on openshift
-
+http://blog.christianposta.com/ 
+https://eleanordare.com/blog 
+https://engineering.bitnami.com/articles/running-non-root-containers-on-openshift.html
 
 #### Examples
 https://github.com/debianmaster/openshift-examples     -- Openshift Examples by Chakradhar Rao Jonagam
